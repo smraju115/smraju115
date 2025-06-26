@@ -2,13 +2,17 @@
 
 👋 Hi, I’m S M SHAHAJALAL RAJU a dedicated .NET Full Stack Developer with a passion for crafting dynamic, scalable, and high-performing web applications.
 
-💻 Tech Stack Expertise:
+**💻 Tech Stack Expertise:**
 
-Frontend: Angular, React, HTML5, CSS3, JavaScript, TypeScript, Bootstrap
-Backend: ASP.NET Core, .NET Framework, Web API, SignalR, RESTful Services
-Database: SQL Server, MySQL, PostgreSQL, MongoDB
-DevOps & Cloud: Azure, AWS, Docker, CI/CD Pipelines, GitHub Actions
-ORMs & Tools: Entity Framework Core, Dapper, LINQ, AutoMapper
+- Frontend: Angular, React, HTML5, CSS3, JavaScript, TypeScript, Bootstrap
+
+- Backend: ASP.NET Core, .NET Framework, Web API, SignalR, RESTful Services
+
+- Database: SQL Server, MongoDB
+
+- DevOps & Cloud: Azure, AWS, Docker, CI/CD Pipelines, GitHub Actions
+
+- ORMs & Tools: Entity Framework Core, Dapper, LINQ, AutoMapper
 
 🚀 What I Bring to the Table:
 
@@ -21,11 +25,24 @@ Skilled in architecting and deploying scalable applications in cloud environment
 Building microservices with .NET Core and containerizing apps using Docker.
 Learning Blazor for modern web app development and enhancing cloud automation with Terraform.
 
-📂 Highlighted Projects:
-E-Commerce Platform: An end-to-end .NET-based e-commerce platform with shopping cart functionality, secure user authentication, and payment gateway integration.
-Inventory Management Application: A robust inventory management system that tracks products, stock levels, and generates reports for retail businesses, built with .NET and SQL Server.
-Employee Management System: A .NET-based application designed to manage employee records, performance evaluations, and payrolls with an integrated reporting system.
-Chat Application: Built a real-time chat system using SignalR and Angular for instant communication.
+## 📂 Highlighted Projects:
+**Student Hall Management System:** 
+- A comprehensive .NET Core-based system to manage student allocations, room availability, hall dues, and reporting for university hostels. Features include admin control panel, student registration, and monthly billing with PDF receipts.
+
+**Car Tint Service Booking System:**
+- An online booking system built with ASP.NET Core 8.0 where public users can choose from various car tinting service packages, schedule appointments, and receive instant PDF receipts. Includes a full-featured admin dashboard to manage bookings and services.
+
+**Quiz WebApp With Coaching Management System:**
+- A dynamic web-based quiz platform developed in ASP.NET Core, allowing users to take exams by category and level. Includes admin panel for managing questions, results, categories, and user performance analytics.
+
+**Inventory Management Application:** 
+- A robust inventory management system that tracks products, stock levels, and generates reports for retail businesses, built with .NET and SQL Server.
+
+**Employee Management System:** 
+- A .NET-based application designed to manage employee records, performance evaluations, and payrolls with an integrated reporting system.
+
+**Chat Application:** 
+- Built a real-time chat system using SignalR and Angular for instant communication.
 
 
 💡 Fun Fact: 
