@@ -4,11 +4,12 @@
 
 **💻 Tech Stack Expertise:**
 
-- Frontend: Angular, React, HTML5, CSS3, JavaScript, TypeScript, Bootstrap
+- Frontend: Angular, React 
+- Architecture: MVC
 
 - Backend: ASP.NET Core, .NET Framework, Web API, SignalR, RESTful Services
 
-- Database: SQL Server, MongoDB
+- Database: SQL Server
 
 - DevOps & Cloud: Azure, AWS, Docker, CI/CD Pipelines, GitHub Actions
 
